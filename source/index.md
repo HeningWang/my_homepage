@@ -4,15 +4,14 @@ title: homepage
 date: 2024-04-22 12:16:52
 ---
 
-# ME IN 10 SECONDS:
+# ME IN 10 SECONDS: 
+<p align="center">
+  <img src="/images/HW_avatar.png" alt="Alt Text" width="200">
+</p>
 
-Currently a first-year PhD student in General Linguistics at the University of Tübingen, starting from 1. April 2024. 
+Hening is a PhD student with a background in Psycholinguistics, Semantics and Pragmatics. He is affiliated with the Linguistic Meaning and Bayesian Modeling (LMBayes) project at the Leibniz-Centre General Linguistics (ZAS), part of the Leibniz Association <a href="https://www.leibniz-zas.de/de/forschung/forschungsbereiche/semantik-pragmatik/lmbayes"> Link </a>. His research focuses on understanding pragmatics in causal communication, combining experimental and computational approaches. Outside of research, he enjoys snowboarding and motorbiking — but strongly dislikes .DS_Store.
 
-Working titel of the PhD project: Understand Pragmatic Reasoning in Causal Relationships using Bayesian Language Models
-
-Supervisors: Prof. Dr. Michael Franke, Dr. Fabian Schlotterbeck
-
-Research interests: Cognitive Modeling, Semantics and Pragmatics, Psycholinguistics
+Research interests: Bayesian Modeling, Semantics and Pragmatics, Psycholinguistics
 
 See more about projects that I'm currently working on [here](/my_homepage/now/).
 

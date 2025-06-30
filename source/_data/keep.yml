@@ -18,13 +18,13 @@ base_info:
   author: Hening Wang
 
   # Author avatar, You can use local image path or image link
-  avatar: /images/avatar.svg
+  avatar: /images/avatar-graduate.svg
 
   # Website LOGO, You can use local image path or image link
-  logo: /images/logo.svg
+  logo: /images/logo-tuebingen.png
 
   # Website favicon, You can use local image path or image link
-  favicon: /images/logo.svg
+  favicon: /images/logo-tuebingen.png
 
 
 # ---------------------------------------------------------------------------------------

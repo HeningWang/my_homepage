@@ -2,7 +2,7 @@
 title: about
 date: 2024-04-22 22:09:46
 ---
-See my detailed CV [here](https://drive.google.com/file/d/1oxdI4_lP2l37tzoPADRQhqIN0iePRIZF/view?usp=sharing). (Last update: Jan. 2024)
+See my detailed CV [here](https://drive.google.com/file/d/1FQ-uuI8gikozNMiBiope_hxZEQOgOLa6/view?usp=sharing). (Last update: Jun. 2025)
 
 ## Educational Background
 
