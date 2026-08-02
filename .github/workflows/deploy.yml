@@ -17,6 +17,5 @@ jobs:
         uses: theme-keep/hexo-deploy-github-pages-action@master
         env:
           PERSONAL_TOKEN: ${{ secrets.HEXO_DEPLOY }}
-          PUBLISH_REPOSITORY: theme-keep/hexo-theme-keep-starter
+          PUBLISH_REPOSITORY: HeningWang/my_homepage
           BRANCH: gh-pages
-          CNAME: keep-start.xpoet.cn

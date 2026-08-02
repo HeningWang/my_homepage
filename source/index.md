@@ -4,17 +4,24 @@ title: homepage
 date: 2024-04-22 12:16:52
 ---
 
-# ME IN 10 SECONDS: 
+# Hening Wang
+
 <p align="center">
-  <img src="/images/HW_avatar.png" alt="Alt Text" width="200">
+  <img src="/images/HW_avatar.png" alt="Portrait of Hening Wang" width="200" style="margin: 0 auto;">
 </p>
 
-Hening is a PhD student with a background in Psycholinguistics, Semantics and Pragmatics. He is affiliated with the Linguistic Meaning and Bayesian Modeling (LMBayes) project at the Leibniz-Centre General Linguistics (ZAS), part of the Leibniz Association <a href="https://www.leibniz-zas.de/de/forschung/forschungsbereiche/semantik-pragmatik/lmbayes"> Link </a>. His research focuses on understanding pragmatics in causal communication, combining experimental and computational approaches. Outside of research, he enjoys snowboarding and motorbiking — but strongly dislikes .DS_Store.
+I am a Ph.D. candidate in General Linguistics at the University of Tübingen and a research assistant in the [Linguistic Meaning and Bayesian Modeling (LMBayes)](https://www.leibniz-zas.de/de/forschung/forschungsbereiche/semantik-pragmatik/lmbayes) project. My research combines behavioral experiments, Bayesian modeling, and computational pragmatics to study causal and argumentative communication.
 
-Research interests: Bayesian Modeling, Semantics and Pragmatics, Psycholinguistics
+[Curriculum Vitae](https://drive.google.com/file/d/1VdAp3BVTvZCSXBJUOxJucXfEOKgTeMN5/view?usp=sharing) · [Publications](/my_homepage/publications/) · [Current projects](/my_homepage/now/)
 
-See more about projects that I'm currently working on [here](/my_homepage/now/).
+## Latest
 
-See more about me and my background [here](/my_homepage/about/index.html).
+- **CogSci 2026:** *When Correlation Means Causation: Pragmatic Factors Modulate Causal Implicatures in Decision-Making Contexts* — [paper](https://drive.google.com/file/d/1YnZqXck6-qhmQk4YcDO784EQiBK9bA4V/view?usp=sharing) · [poster](https://drive.google.com/file/d/1_XasOk5oJ-1ttzM05QufSixae1_HPRPs/view?usp=sharing)
 
-Contact me: hening.wang@uni-tuebingen.de or hening.wang@outlook.com
+- **CogSci 2026 oral presentation:** *What Guides Utterance Choice in Argumentative Language Use?* — [paper](https://drive.google.com/file/d/1o5hjudDP846v1Skv4_UsGjP20cAD7FP5/view?usp=sharing)
+
+- **Linguistic Evidence 2026:** *From Controversy to Consensus: Modelling Community-Sensitive Common Ground Management in German Discourse Markers* — accepted talk; abstract forthcoming
+
+More about my background is available on the [About page](/my_homepage/about/).
+
+Contact: [hening.wang@uni-tuebingen.de](mailto:hening.wang@uni-tuebingen.de) · [hening.wang@outlook.com](mailto:hening.wang@outlook.com)

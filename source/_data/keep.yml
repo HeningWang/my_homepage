@@ -36,6 +36,7 @@ base_info:
 menu:
   home: /|| fa-solid fa-home
   posts: /archives|| fa-solid fa-box-archive
+  publications: /publications   || fa-solid fa-book-open
   #tags: /tags                   / || fa-solid fa-tags
   #categories: /categories       / || fa-solid fa-layer-group
   # links: /links               # || fa-solid fa-link

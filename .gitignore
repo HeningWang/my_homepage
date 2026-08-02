@@ -2,8 +2,14 @@
 Thumbs.db
 db.json
 *.log
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
 public/
 .deploy*/
+tmp/
 _multiconfig.yml
 .vscode/*
 /.idea
@@ -13,7 +19,7 @@ _multiconfig.yml
 *.launch
 .settings/
 *.sublime-workspace
-node_modules/
+node_modules
 .worktrees/
 package-lock.json
 yarn.lock
