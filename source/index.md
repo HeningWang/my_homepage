@@ -20,7 +20,7 @@ I am a Ph.D. candidate in General Linguistics at the University of Tübingen and
 
 - **CogSci 2026 oral presentation:** *What Guides Utterance Choice in Argumentative Language Use?* — [paper](https://drive.google.com/file/d/1o5hjudDP846v1Skv4_UsGjP20cAD7FP5/view?usp=sharing)
 
-- **Linguistic Evidence 2026:** *From Controversy to Consensus: Modelling Community-Sensitive Common Ground Management in German Discourse Markers* — accepted talk; abstract forthcoming
+- **Linguistic Evidence 2026:** *From Controversy to Consensus: Modelling Community-Sensitive Common Ground Management in German Discourse Markers* — accepted talk; [abstract](\/my_homepage\/files\/LE2026-abstract.pdf)
 
 More about my background is available on the [About page](/my_homepage/about/).
 

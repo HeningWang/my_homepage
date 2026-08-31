@@ -38,7 +38,7 @@ See my detailed [CV](https://drive.google.com/file/d/1VdAp3BVTvZCSXBJUOxJucXfEOK
 
 ## Poster and Presentations
 
-- **Hening Wang**, Yuhan Guo, Michael Franke (2026). *From controversy to consensus: Modelling community-sensitive common ground management in German discourse markers*. Talk accepted at Linguistic Evidence 2026, Mannheim. Abstract forthcoming.
+- **Hening Wang**, Yuhan Guo, Michael Franke (2026). *From controversy to consensus: Modelling community-sensitive common ground management in German discourse markers*. Talk accepted at Linguistic Evidence 2026, Mannheim. [abstract](\/my_homepage\/files\/LE2026-abstract.pdf)
 
 - Fausto Carcassi, **Hening Wang**, Chris Cummins, Michael Franke (2026). *What guides utterance choice in argumentative language use?* Oral presentation, CogSci 2026, Rio de Janeiro. [paper](https://drive.google.com/file/d/1o5hjudDP846v1Skv4_UsGjP20cAD7FP5/view?usp=sharing)
 
