@@ -22,9 +22,9 @@ See my detailed [CV](/my_homepage/files/Hening_Wang_CV.pdf) (last updated Septem
 
 ## Publications
 
-- **Hening Wang**, Daniel Lassiter, Michael Franke (2026). *When correlation means causation: Pragmatic factors modulate causal implicatures in decision-making contexts*. Forthcoming in the *Proceedings of the Annual Meeting of the Cognitive Science Society*. [paper](https://drive.google.com/file/d/1YnZqXck6-qhmQk4YcDO784EQiBK9bA4V/view?usp=sharing) · [poster](https://drive.google.com/file/d/1_XasOk5oJ-1ttzM05QufSixae1_HPRPs/view?usp=sharing)
+- **Hening Wang**, Daniel Lassiter, Michael Franke (2026). *When correlation means causation: Pragmatic factors modulate causal implicatures in decision-making contexts*. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 48, 2929–2935. [paper](https://escholarship.org/uc/item/8q26s1bh) · [poster](https://drive.google.com/file/d/1_XasOk5oJ-1ttzM05QufSixae1_HPRPs/view?usp=sharing)
 
-- Fausto Carcassi, **Hening Wang**, Chris Cummins, Michael Franke (2026). *What guides utterance choice in argumentative language use?* Forthcoming in the *Proceedings of the Annual Meeting of the Cognitive Science Society*. [paper](https://drive.google.com/file/d/1o5hjudDP846v1Skv4_UsGjP20cAD7FP5/view?usp=sharing)
+- Fausto Carcassi, **Hening Wang**, Chris Cummins, Michael Franke (2026). *What guides utterance choice in argumentative language use?* *Proceedings of the Annual Meeting of the Cognitive Science Society*, 48, 389–395. [paper](https://escholarship.org/uc/item/2bq1d71z)
 
 - Polina Tsvilodub<sup>&#42;</sup>, **Hening Wang**<sup>&#42;</sup>, Sharon Grosch, Michael Franke (2024). *Predictions from language models for multiple-choice tasks are not robust under variation of scoring methods*. [arXiv:2403.00998](https://arxiv.org/abs/2403.00998). (<sup>&#42;</sup> equal contribution)
 
@@ -42,9 +42,9 @@ See my detailed [CV](/my_homepage/files/Hening_Wang_CV.pdf) (last updated Septem
 
 - **Hening Wang**, Yuhan Guo, Michael Franke (2026). *From controversy to consensus: Modelling community-sensitive common ground management in German discourse markers*. Talk accepted at Linguistic Evidence 2026, Mannheim. [abstract](/my_homepage/files/LE2026-abstract.pdf)
 
-- Fausto Carcassi, **Hening Wang**, Chris Cummins, Michael Franke (2026). *What guides utterance choice in argumentative language use?* Oral presentation, CogSci 2026, Rio de Janeiro. [paper](https://drive.google.com/file/d/1o5hjudDP846v1Skv4_UsGjP20cAD7FP5/view?usp=sharing)
+- Fausto Carcassi, **Hening Wang**, Chris Cummins, Michael Franke (2026). *What guides utterance choice in argumentative language use?* Oral presentation, CogSci 2026, Rio de Janeiro. [paper](https://escholarship.org/uc/item/2bq1d71z)
 
-- **Hening Wang**, Daniel Lassiter, Michael Franke (2026). *When correlation means causation: Pragmatic factors modulate causal implicatures in decision-making contexts*. Poster, CogSci 2026, Rio de Janeiro. [paper](https://drive.google.com/file/d/1YnZqXck6-qhmQk4YcDO784EQiBK9bA4V/view?usp=sharing) · [poster](https://drive.google.com/file/d/1_XasOk5oJ-1ttzM05QufSixae1_HPRPs/view?usp=sharing)
+- **Hening Wang**, Daniel Lassiter, Michael Franke (2026). *When correlation means causation: Pragmatic factors modulate causal implicatures in decision-making contexts*. Poster, CogSci 2026, Rio de Janeiro. [paper](https://escholarship.org/uc/item/8q26s1bh) · [poster](https://drive.google.com/file/d/1_XasOk5oJ-1ttzM05QufSixae1_HPRPs/view?usp=sharing)
 
 - **Hening Wang**, Fabian Schlotterbeck, Michael Franke (2025). *Incremental RSA model explains adjective ordering preferences by communicative efficiency across contexts*. Poster, Computational Psycholinguistics Meeting 2025, Utrecht University.
 
