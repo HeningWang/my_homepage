@@ -33,6 +33,12 @@ University of Tübingen · PI: Dr. Fabian Schlotterbeck
 
 ## Non-Academic Work Experience
 
+**2019 · Freelance Translator and Interpreter**
+
+- **Industrial and technical projects:** Translation and interpreting for Continental on rubber brake hoses, for Constellium on welding automotive battery enclosures, and for Jiangsu Tianhong Machinery Industry Co., Ltd. on dual-chamber holding furnaces.
+- **Wine and business:** Interpreting for winery visits in Nierstein and business reception.
+- **Children’s publishing:** Translation of a children’s illustrated book about dinosaurs.
+
 **November 2016 – July 2018 · German Language Instructor**<br>
 Foreign Language Institute of Nanjing University · Nanjing, China
 
