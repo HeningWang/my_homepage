@@ -23,6 +23,5 @@ node_modules
 .worktrees/
 package-lock.json
 yarn.lock
-pnpm-lock.yaml
 _config.yml
 _config.yml

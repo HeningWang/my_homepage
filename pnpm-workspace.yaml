@@ -1,0 +1,3 @@
+# hexo-util generates the syntax-highlighting aliases used by Hexo.
+allowBuilds:
+  hexo-util@3.3.0: true
