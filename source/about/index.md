@@ -2,11 +2,11 @@
 title: about
 date: 2024-04-22 22:09:46
 ---
-See my detailed [CV](/my_homepage/files/Hening_Wang_CV.pdf) (last updated September 2026) and the complete [publications page](/my_homepage/publications/).
+See my detailed [CV](/my_homepage/files/Hening_Wang_CV.pdf) (last updated October 2026) and the complete [publications page](/my_homepage/publications/).
 
 ## Educational Background
 
-**2024 - present**: **Ph.D. candidate** in General Linguistics at the **University of Tübingen**
+**July 2022 - present**: **Ph.D. candidate** in General Linguistics at the **University of Tübingen**
 
 **2019 - 2022**: **M.A.** in German Linguistics (with a focus on Psycholinguistics) at the **University of Tübingen**
 

@@ -12,7 +12,7 @@ date: 2024-04-22 12:16:52
 
 I am a Ph.D. candidate in General Linguistics at the University of Tübingen and a research assistant in the [Linguistic Meaning and Bayesian Modeling (LMBayes)](https://www.leibniz-zas.de/de/forschung/forschungsbereiche/semantik-pragmatik/lmbayes) project. My research combines behavioral experiments, Bayesian modeling, and computational pragmatics to study causal and argumentative communication.
 
-[Curriculum Vitae](/my_homepage/files/Hening_Wang_CV.pdf) · [Publications](/my_homepage/publications/) · [Current projects](/my_homepage/now/)
+[Curriculum Vitae](/my_homepage/files/Hening_Wang_CV.pdf) · [Publications](/my_homepage/publications/)
 
 ## Latest
 
