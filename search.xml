@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>How to add Google search console to hexo blog</title>
+    <url>/my_homepage/posts/f7b96e5d.html</url>
+    <content><![CDATA[<h1 id="Add-Google-Search-Console-GSC-to-hexo-blog"><a href="#Add-Google-Search-Console-GSC-to-hexo-blog" class="headerlink" title="Add Google Search Console (GSC) to hexo blog"></a>Add Google Search Console (GSC) to hexo blog</h1><h2 id="Install-hexo-sitemap"><a href="#Install-hexo-sitemap" class="headerlink" title="Install hexo-sitemap"></a>Install hexo-sitemap</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-generator-sitemap --save</span><br></pre></td></tr></table></figure>
+<p>Add configuration to _config.yml</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sitemap:</span><br><span class="line">    path: sitemap.xml</span><br></pre></td></tr></table></figure>
+<p>This will automatically generate a sitemap every time after deploying the website.</p>
+<h2 id="Verify-the-ownership-of-your-site-in-GSC"><a href="#Verify-the-ownership-of-your-site-in-GSC" class="headerlink" title="Verify the ownership of your site in GSC"></a>Verify the ownership of your site in GSC</h2><ol>
+<li>Go to <a class="link"   href="https://search.google.com/search-console/about" >GSC website<i class="fas fa-external-link-alt"></i></a></li>
+<li>Under URL prefix, enter your homepage URL.<br><img  
+                       lazyload
+                       alt="image"
+                       data-src="/my_homepage/google-search-console/property.png"
+                       
+                 ></li>
+<li>Click Continue</li>
+<li>Use “Recommended verification methods”, i.e HTML file.</li>
+<li>Download the automatically generated .html file.</li>
+<li>Put this .html file into the <em>source</em> folder of your blog. (not _post, not anything, just root <em>source</em> folder)</li>
+<li>!IMPORTANT (This has been a big issue for me) Set layout as false in the frontal info of this .html file, otherwise you will get error with verification.<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># originally:</span><br><span class="line">google-site-verification: googlee6edfc5f795da21a.html</span><br><span class="line"></span><br><span class="line"># now change to:</span><br><span class="line">---</span><br><span class="line">layout: false</span><br><span class="line">---</span><br><span class="line">google-site-verification: googlee6edfc5f795da21a.html</span><br></pre></td></tr></table></figure></li>
+<li>Alternative way for verification is to use HTML tag, see <a class="link"   href="https://foystor.github.io/2022/08/16/show-hexo-blog-on-google-search/" >this post<i class="fas fa-external-link-alt"></i></a></li>
+<li>Add sitemap.xml to sitemap of GSC</li>
+<li>You are all set! After a while of waiting, tap <em>site: your-blog-address</em> into google search window to check if your blog has been properly tracked by GSC.</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>How to hide posts in hexo</title>
+    <url>/my_homepage/posts/6ebefd84.html</url>
+    <content><![CDATA[<h1 id="How-to-hide-posts-in-hexo"><a href="#How-to-hide-posts-in-hexo" class="headerlink" title="How to hide posts in hexo"></a>How to hide posts in hexo</h1><p>Sometimes, we want to keep certain posts invisible to the public, but still traceable in the source folder for later use.</p>
+<h2 id="Move-files-to-drafts-folder"><a href="#Move-files-to-drafts-folder" class="headerlink" title="Move files to _drafts folder"></a>Move files to _drafts folder</h2><p>One way for doing that is to move a certain post to _drafts folder. Per default, hexo will not render and generate files in _drafts folder. Later one can use this command to publish it back to _posts folder.</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo publish [layout] &lt;title&gt;</span><br></pre></td></tr></table></figure>
+<h2 id="Use-hexo-hide-post-plugin"><a href="#Use-hexo-hide-post-plugin" class="headerlink" title="Use hexo-hide-post plugin"></a>Use hexo-hide-post plugin</h2><h3 id="Installation"><a href="#Installation" class="headerlink" title="Installation"></a>Installation</h3><p>Another solution is to install this plugin from github: <a class="link"   href="https://github.com/prinsss/hexo-hide-posts" >hexo-hide-post<i class="fas fa-external-link-alt"></i></a></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ npm install hexo-hide-posts --save</span><br></pre></td></tr></table></figure>
+
+<h3 id="Configuration"><a href="#Configuration" class="headerlink" title="Configuration"></a>Configuration</h3><p>After installation, add configurations in your _config.yml file.</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># hexo-hide-posts</span><br><span class="line">hide_posts:</span><br><span class="line">  enable: true</span><br><span class="line">  # Change the filter name to fit your need</span><br><span class="line">  filter: hidden</span><br><span class="line">  # Generators which you want to expose all posts (include hidden ones) to.</span><br><span class="line">  # Common generators: index, tag, category, archive, sitemap, feed, etc.</span><br><span class="line">  public_generators: []</span><br><span class="line">  # Add &quot;noindex&quot; meta tag to prevent hidden posts from being indexed by search engines</span><br><span class="line">  noindex: true</span><br></pre></td></tr></table></figure>
+<p>e.g. Set filter to secret, so you can use secret: true in front-matter instead.</p>
+<h3 id="Usage"><a href="#Usage" class="headerlink" title="Usage"></a>Usage</h3><p>Add meta information to the front matter of your post accordingly, e.g.</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: &#x27;Lorem Ipsum&#x27;</span><br><span class="line">date: &#x27;2019/8/10 11:45:14&#x27;</span><br><span class="line">hidden: true</span><br><span class="line">---</span><br></pre></td></tr></table></figure>]]></content>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+</search>
